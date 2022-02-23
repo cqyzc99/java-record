@@ -15,7 +15,7 @@
 
 
 
-#### **硬件 **
+#### 硬件
 
 ```mermaid
  classDiagram
