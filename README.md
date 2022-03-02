@@ -1,5 +1,3 @@
-# Play-Java
-
 # Java学习记录 
 
 > 记录菜鸟Java的修仙之路~
